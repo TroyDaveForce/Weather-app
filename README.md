@@ -3,7 +3,7 @@
 A simple weather app that fetches real-time weather data for any city in the world.
 
 ## 🔗 Live Demo
-[Coming soon — deploying to Vercel]
+[https://weather-app-troy-force.vercel.app](https://weather-app-troy-force.vercel.app)
 
 ## 🛠 Built With
 - HTML
@@ -17,9 +17,11 @@ A simple weather app that fetches real-time weather data for any city in the wor
 - Error handling for invalid cities
 - Clean, responsive UI
 
-## 🚀 Setup (run locally)
+## 📸 Screenshot
+![Weather App Screenshot](./screenshot.png)
+
+## 🚀 Run Locally
 1. Clone this repo
-2. Create a `config.js` file in the root folder
-3. Add your OpenWeather API key:
+2. Create a `config.js` file and add:
    ```javascript
-   const apiKey = 'YOUR_API_KEY_HERE';
+   const apiKey = 'YOUR_OPENWEATHER_KEY';
