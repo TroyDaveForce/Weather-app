@@ -18,7 +18,7 @@ A simple weather app that fetches real-time weather data for any city in the wor
 - Clean, responsive UI
 
 ## 📸 Screenshot
-![Weather App Screenshot](./screenshot.png)
+![Weather App Screenshot](./Screenshot.png)
 
 ## 🚀 Run Locally
 1. Clone this repo
