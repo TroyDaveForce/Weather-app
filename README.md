@@ -22,6 +22,8 @@ A simple weather app that fetches real-time weather data for any city in the wor
 
 ## 🚀 Run Locally
 1. Clone this repo
-2. Create a `config.js` file and add:
-   ```javascript
-   const apiKey = 'YOUR_OPENWEATHER_KEY';
+2. Add your OpenWeather API key to `script.js`:
+    ```javascript
+    const apiKey = 'YOUR_OPENWEATHER_KEY';
+    ```
+3. Open `index.html` in your browser (or use the Live Server extension in VS Code)
