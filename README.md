@@ -27,3 +27,12 @@ A simple weather app that fetches real-time weather data for any city in the wor
     const apiKey = 'YOUR_OPENWEATHER_KEY';
     ```
 3. Open `index.html` in your browser (or use the Live Server extension in VS Code)
+
+## 📫 Connect with Me
+**David Ekeke** 
+- GitHub: [@TroyDaveForce](https://github.com/TroyDaveForce)
+- LinkedIn: [David Ekeke](https://www.linkedin.com/in/david-ekeke)
+- Email: [ekekedavid147@gmail.com](mailto:ekekedavid147@gmail.com)
+
+## 📄 License
+This project is licensed under the MIT License.
